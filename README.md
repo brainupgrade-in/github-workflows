@@ -1,3 +1,3 @@
 # github-workflows
-hello
+hello Semver-Minor enhancement
 #Test
